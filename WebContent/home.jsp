@@ -39,23 +39,23 @@ body {
 	<td><%= name %></td>
 </tr>
 <tr>
-	<td>Address</td>
+	<td>Address:</td>
 	<td><%= Addr %></td>
 </tr>
 <tr>
-	<td>Age</td>
+	<td>Age:</td>
 	<td><%= age %></td>
 </tr>
 <tr>
-	<td>Qualification</td>
+	<td>Qualification:</td>
 	<td><%= Qual %></td>
 </tr>
 <tr>
-	<td>Percentage</td>
+	<td>Percentage:</td>
 	<td><%= Persent %></td>
 </tr>
 <tr>
-	<td>Year of Passout</td>
+	<td>Year of Passout:</td>
 	<td><%= Year %></td>
 </tr>
 </table>

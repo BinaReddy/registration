@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration Status Updated by Bina</title>
+<title>Registration Status Updated by Bina today 16-3-21</title>
 
 <style>
 h1 {

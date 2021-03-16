@@ -55,7 +55,7 @@ body {
 	<td><%= Persent %></td>
 </tr>
 <tr>
-	<td>Year of Passout:</td>
+	<td>Year Passed:</td>
 	<td><%= Year %></td>
 </tr>
 </table>
